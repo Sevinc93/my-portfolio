@@ -1,0 +1,78 @@
+body {
+    
+    background-image: url(https://images.unsplash.com/photo-1609601470014-5754ed429f30?q=80&w=2671&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D);
+
+<style>
+.facebook{
+max-width: 100%;
+display: block;
+height: auto;
+
+.linkedin{
+max-width: 100%;
+display: block;
+height: auto;
+}
+}
+</style>
+}
+
+h1 {
+    color: rgb(3, 23, 81);
+    text-align: center;
+}
+p{
+    color: rgb(2, 17, 62);
+    font-size: large;
+    
+}
+
+header+p{
+    color: rgb(2, 17, 62);
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: x-large;
+    font-style: italic;
+    border-style: dotted;
+    border-color: rgb(108, 228, 43);
+    border-width: 5px;
+
+}
+header>h3 {
+    color: rgb(0, 31, 68);
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: xx-large;
+    }
+
+   
+    header {
+        font-style: italic;
+        color: rgb(0, 31, 68);
+        container: flex end;
+    }
+
+    aside>h3{
+        font-style: italic;
+        font-family: Georgia, 'Times New Roman', Times, serif;
+        font-size: xx-large;
+        color: rgb(0, 31, 68);
+        }
+
+    aside>ul li{
+    font-style: italic;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    color: rgb(0, 31, 68);
+    }
+
+    div>img{
+        border-radius: 40%;
+    }
+
+.facebook>a{
+    float: right;
+}
+
+
+.linkedin>a{
+    float: right;
+   }
+

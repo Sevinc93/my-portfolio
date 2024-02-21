@@ -1,0 +1,74 @@
+body {
+    background-image: url(https://images6.alphacoders.com/951/951657.jpg);
+background-size: 100%;
+background-repeat:repeat;
+text-align: center;
+}
+
+
+
+h1{
+text-align: center;
+color:lightsalmon;
+font-family:'Times New Roman', Times, serif;
+font-weight: 200px;
+padding-top: 20px;
+}
+
+.contact {
+    color: lightsalmon;
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: bold;
+    border-radius: 15px 50px 30px;
+    padding-top: 60px;
+
+    
+}
+.contact>form>input { 
+    border-radius: 20px;
+    padding: 10px;
+    border-color: lightsalmon;
+    margin-top: 10px;
+    
+ }
+ .contact>form>textarea {  
+    border-radius: 20px;
+    padding: 10px;
+    border-color: lightsalmon;
+    }
+
+.alert>button {
+    border: none;
+    border-radius: 20px;
+color:lightsalmon;
+background-color: antiquewhite;
+text-align: center;
+text-decoration: none;
+display: inline-block;
+font-size: 14px;
+cursor: pointer;
+}
+
+
+.blg {
+    color:chocolate;
+    font-size:medium;
+    text-align: left;
+    position: fixed;
+    left: 0;
+    bottom: 0;
+}
+
+  .btn1:hover {
+    color: navy;
+  }
+  .btn1:active {
+    color:brown ;
+  }
+
+  .btn2:hover {
+    color: navy;
+  }
+  .btn2:active {
+    color:brown;
+  }
